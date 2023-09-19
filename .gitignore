@@ -1,0 +1,6 @@
+man_1_simple_shell
+c_cpp_properties.json
+.vscode
+.vscode/
+*.swp
+.vscode-server/
